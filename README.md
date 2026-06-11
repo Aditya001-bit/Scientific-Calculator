@@ -85,13 +85,13 @@ This project helped in understanding:
 
 Added screenshots of your calculator here.
 
-```
+
 <img width="875" height="819" alt="image" src="https://github.com/user-attachments/assets/c1e1d9f7-8d74-4b7a-a710-86a038d23c7d" />
 
 <img width="1480" height="850" alt="image" src="https://github.com/user-attachments/assets/d3d7a5cc-815d-4fda-9c91-7a1d5276f47a" />
 
 
-```
+
 
 ## 🌟 Future Improvements
 
